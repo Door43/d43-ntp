@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ntp:home|Door43 (ntp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ntp|d43-ntp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ntp/archive/master.zip|d43-ntp.zip]]
+
+**Recent Changes**
+{{changes>ns = ntp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ntp|Ethnologue data]]
+
